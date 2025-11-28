@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋Hi, I'm a Full Stack Developer who loves building clean, responsive, and scalable web applications.<br>📚 I'm Currently improving my skills in: React, Redux Toolkit & Zustand (state management)<br>🎯 Goals: To learn, improve, and ship more apps.</p>
+<p align="left">👋Hi, I'm a Full Stack Developer who loves building clean, responsive, and scalable web applications.<br>📚 I'm Currently improving my skills in: React, Redux Toolkit & Zustand (state management) and DSA<br>🎯 Goals: To learn, improve, and ship more apps.</p>
 
 ###
 
